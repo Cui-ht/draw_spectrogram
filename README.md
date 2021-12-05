@@ -1,6 +1,8 @@
 # draw_spectrogram
 Produces a "Praat style" spectrogram of an audio(.wav) file using Short Time Fourier Transformation with Gaussian window function. 
 
-Uses Python packages librosa, matplotlib and scipy.
+## Dependencies
+Python packages librosa, matplotlib and scipy.
 
-Might be handy for phonetians who are more familiar with this kind than a default librosa "specshow" method graph.
+## Who is this for?
+Might be handy for phonetians who are (like me) more familiar with this kind than a default librosa "specshow" method graph.
