@@ -9,7 +9,7 @@ Python packages librosa, matplotlib and scipy.
 
 ## Example
 ### Code Example (w/ command-line options)
-python draw_spectrum.py -i [wav_file.wav] -o [/output_directory]
+`python draw_spectrum.py -i [wav_file.wav] -o [/output_directory]`
 
 ### Output Example
 ![me-phonetics](https://user-images.githubusercontent.com/57549068/144840971-06e89f0d-cef0-4b66-af3a-e19bbfe0a63c.png)
